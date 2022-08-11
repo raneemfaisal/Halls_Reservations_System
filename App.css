@@ -1,0 +1,57 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+.App {
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+.createMain {
+  max-width: 700px;
+  max-height: 700px;
+  margin: 100px auto;
+  text-align: center;
+  background-color: #eaeaea;
+  padding: 150px 30px;
+  align-items: center;
+  border-radius: 6px;
+}
+
+h2 :hover {
+  color: rgba(173, 173, 173, 0.6);
+  transform: translate(0,-5px) !important;
+}
+
+h1 {
+color: #FCFDFE;
+font-size: 50px;
+text-shadow: 4px 4px 4px #aaa;
+font-family: 'Cairo', sans-serif;
+}
+
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.createMain h2 {
+  font-size: 35px;
+  text-align: center;
+  color: #426799;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+header {
+  font-size: 17px;
+  text-align: right;
+  text-indent: 1350px;
+  color: #525353;
+  font-weight: bold;
+  font-style: oblique;
+  background-color: #eaeaea;
+  padding: 12px 25px;
+  margin-top: -20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
